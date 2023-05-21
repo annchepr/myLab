@@ -5,6 +5,7 @@
   <body>
    <h>Чепрасова Анастасия Сергеевна</h>
    <p>Капибара – самый большой грызун из всех известных. Взрослая особь может достигать в весе до 65 кг, а тело может достигать 1,35 метров в длину и 60 см в высоту.</p>
-  <a href="https://portal.edu.asu.ru/user/profile.php?id=35482">Ссылка на мой профиль</a> 
+  <a href="https://portal.edu.asu.ru/user/profile.php?id=35482">Ссылка на мой профиль</a>
+  <img src="https://www.pravilamag.ru/upload/img_cache/e8a/e8a0c5d3cefffee703a2d9a58cde797e_ce_1080x673x0x23_cropped_666x444.jpg">
   </body>
 </html>
